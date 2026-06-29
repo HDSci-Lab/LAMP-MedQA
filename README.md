@@ -10,6 +10,8 @@ patient-friendly simplification — with iterative self-correction. The
 generation agents use Qwen2.5-7B-Instruct and the reviewer/verifier agents
 use Phi-3.5-Mini-Instruct.
 
+Full paper link: https://aclanthology.org/2026.acl-srw.60/
+
 ## Setup
 
 ```bash
