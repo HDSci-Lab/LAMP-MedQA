@@ -5,8 +5,8 @@ Patient-Oriented Medical Question Answering"** (Johnson, Banerjee, Crawford,
 Welch, Davies, and Wang).
 
 LAMP-MedQA decomposes patient-facing medical question answering into two
-metric-gated stages — evidence extraction from a discharge summary, then
-patient-friendly simplification — with iterative self-correction. The
+metric-gated stages, evidence extraction from a discharge summary, then
+patient-friendly simplification, with iterative self-correction. The
 generation agents use Qwen2.5-7B-Instruct and the reviewer/verifier agents
 use Phi-3.5-Mini-Instruct.
 
